@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Moving an image on a canvas">
-      <change afterPath="$PROJECT_DIR$/animating.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Animating images">
+      <change afterPath="$PROJECT_DIR$/multiple_animation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
     "Python.mouse_events.executor": "Run",
     "Python.movement.executor": "Run",
     "Python.movement_on_canvas.executor": "Run",
+    "Python.multiple_animation.executor": "Run",
     "Python.progress_bar.executor": "Run",
     "Python.radio_buttons.executor": "Run",
     "Python.scale.executor": "Run",
@@ -324,11 +325,26 @@
       <option name="project" value="LOCAL" />
       <updated>1721032733597</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Animating images">
+      <option name="closed" value="true" />
+      <created>1721034057233</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721034057233</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Animating images">
+      <option name="closed" value="true" />
+      <created>1721034192019</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1721034192019</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GUI basics" />
     <MESSAGE value="GUI Windows and Labels" />
     <MESSAGE value="Buttons" />
     <MESSAGE value="Entries (Text Input Boxes)" />
@@ -353,6 +369,7 @@
     <MESSAGE value="Dragging &amp; passing widgets through events" />
     <MESSAGE value="Widget movement" />
     <MESSAGE value="Moving an image on a canvas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moving an image on a canvas" />
+    <MESSAGE value="Animating images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Animating images" />
   </component>
 </project>
