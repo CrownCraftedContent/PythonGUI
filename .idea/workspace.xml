@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Art on a Canvas">
-      <change afterPath="$PROJECT_DIR$/binding.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Key events">
+      <change afterPath="$PROJECT_DIR$/mouse_events.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
     "Python.listbox.executor": "Run",
     "Python.menu_bar.executor": "Run",
     "Python.message_box.executor": "Run",
+    "Python.mouse_events.executor": "Run",
     "Python.progress_bar.executor": "Run",
     "Python.radio_buttons.executor": "Run",
     "Python.scale.executor": "Run",
@@ -278,7 +279,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721029700730</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Key events">
+      <option name="closed" value="true" />
+      <created>1721030080017</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1721030080017</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -302,6 +311,7 @@
     <MESSAGE value="grid() instead of pack()" />
     <MESSAGE value="Progress Bar" />
     <MESSAGE value="Art on a Canvas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Art on a Canvas" />
+    <MESSAGE value="Key events" />
+    <option name="LAST_COMMIT_MESSAGE" value="Key events" />
   </component>
 </project>
