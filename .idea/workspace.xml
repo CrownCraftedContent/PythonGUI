@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Animating multiple images/shapes">
-      <change afterPath="$PROJECT_DIR$/clock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Automation of time display">
+      <change afterPath="$PROJECT_DIR$/emails.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -350,11 +349,18 @@
       <option name="project" value="LOCAL" />
       <updated>1721038105809</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Automation of time display">
+      <option name="closed" value="true" />
+      <created>1721041099288</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1721041099288</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Buttons" />
     <MESSAGE value="Entries (Text Input Boxes)" />
     <MESSAGE value="Check buttons" />
     <MESSAGE value="Radio Buttons" />
@@ -379,6 +385,7 @@
     <MESSAGE value="Moving an image on a canvas" />
     <MESSAGE value="Animating images" />
     <MESSAGE value="Animating multiple images/shapes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Animating multiple images/shapes" />
+    <MESSAGE value="Automation of time display" />
+    <option name="LAST_COMMIT_MESSAGE" value="Automation of time display" />
   </component>
 </project>
