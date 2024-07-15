@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="New/Extra Windows">
-      <change afterPath="$PROJECT_DIR$/tabs.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Separate Tabs">
+      <change afterPath="$PROJECT_DIR$/gridding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     "Python.file_dialog.executor": "Run",
     "Python.file_saving.executor": "Run",
     "Python.frame.executor": "Run",
+    "Python.gridding.executor": "Run",
     "Python.listbox.executor": "Run",
     "Python.menu_bar.executor": "Run",
     "Python.message_box.executor": "Run",
@@ -234,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721026151269</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Separate Tabs">
+      <option name="closed" value="true" />
+      <created>1721026661138</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721026661138</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -254,6 +264,7 @@
     <MESSAGE value="Menu Bar" />
     <MESSAGE value="Frames" />
     <MESSAGE value="New/Extra Windows" />
-    <option name="LAST_COMMIT_MESSAGE" value="New/Extra Windows" />
+    <MESSAGE value="Separate Tabs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Separate Tabs" />
   </component>
 </project>
