@@ -31,4 +31,4 @@ while True:
     window.update()  # for any changes
     time.sleep(0.01)
 
-window.mainloop()
+window.mainloop()  # this code will somehow be reached
