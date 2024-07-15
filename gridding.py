@@ -20,5 +20,4 @@ email_entry = Entry(window).grid(row=3, column=1)
 submit_button = Button(window, text="Submit").grid(row=4, column=0, columnspan=2)  # take up two spaces, is placed btw.
 
 
-
 window.mainloop()
