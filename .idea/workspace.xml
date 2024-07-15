@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Scales and Radio Buttons">
-      <change afterPath="$PROJECT_DIR$/listbox.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Listbox">
+      <change afterPath="$PROJECT_DIR$/message_box.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.checkboxes.executor": "Run",
     "Python.entry.executor": "Run",
     "Python.listbox.executor": "Run",
+    "Python.message_box.executor": "Run",
     "Python.radio_buttons.executor": "Run",
     "Python.scale.executor": "Run",
     "Python.start.executor": "Run",
@@ -146,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721017404269</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Listbox">
+      <option name="closed" value="true" />
+      <created>1721018665190</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721018665190</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -157,6 +166,7 @@
     <MESSAGE value="Check buttons" />
     <MESSAGE value="Radio Buttons" />
     <MESSAGE value="Scales and Radio Buttons" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scales and Radio Buttons" />
+    <MESSAGE value="Listbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="Listbox" />
   </component>
 </project>
