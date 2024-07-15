@@ -1,5 +1,5 @@
 from tkinter import *
-from tkinter import messagebox  # imports the messagebox library
+from tkinter import messagebox  # imports the messagebox submodule
 
 def click():
     # v display a simple message
