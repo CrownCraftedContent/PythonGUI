@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Widget movement">
-      <change afterPath="$PROJECT_DIR$/movement_on_canvas.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Moving an image on a canvas">
+      <change afterPath="$PROJECT_DIR$/animating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.animating.executor": "Run",
     "Python.basics.executor": "Run",
     "Python.binding.executor": "Run",
     "Python.buttons.executor": "Run",
@@ -314,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721032346261</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Moving an image on a canvas">
+      <option name="closed" value="true" />
+      <created>1721032733597</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1721032733597</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -342,6 +352,7 @@
     <MESSAGE value="Mouse Events" />
     <MESSAGE value="Dragging &amp; passing widgets through events" />
     <MESSAGE value="Widget movement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Widget movement" />
+    <MESSAGE value="Moving an image on a canvas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moving an image on a canvas" />
   </component>
 </project>
