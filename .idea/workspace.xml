@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="GUI basics">
-      <change afterPath="$PROJECT_DIR$/Screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/entry.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Entries (Text Input Boxes)">
+      <change afterPath="$PROJECT_DIR$/check_buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio_buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scale.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,9 @@
     &quot;accountId&quot;: &quot;e2ec6692-cd49-4646-9939-d38139bdd388&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -51,7 +54,10 @@
   "keyToString": {
     "Python.basics.executor": "Run",
     "Python.buttons.executor": "Run",
+    "Python.checkboxes.executor": "Run",
     "Python.entry.executor": "Run",
+    "Python.radio_buttons.executor": "Run",
+    "Python.scale.executor": "Run",
     "Python.start.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -86,11 +92,38 @@
       <option name="project" value="LOCAL" />
       <updated>1720713692631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GUI Windows and Labels">
+      <option name="closed" value="true" />
+      <created>1721013239160</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721013239160</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Buttons">
+      <option name="closed" value="true" />
+      <created>1721013246639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721013246639</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Entries (Text Input Boxes)">
+      <option name="closed" value="true" />
+      <created>1721013273892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721013273892</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GUI basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="GUI basics" />
+    <MESSAGE value="GUI Windows and Labels" />
+    <MESSAGE value="Buttons" />
+    <MESSAGE value="Entries (Text Input Boxes)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Entries (Text Input Boxes)" />
   </component>
 </project>
