@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Progress Bar">
-      <change afterPath="$PROJECT_DIR$/canvas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Art on a Canvas">
+      <change afterPath="$PROJECT_DIR$/binding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.basics.executor": "Run",
+    "Python.binding.executor": "Run",
     "Python.buttons.executor": "Run",
     "Python.canvas.executor": "Run",
     "Python.checkboxes.executor": "Run",
@@ -270,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721028709108</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Art on a Canvas">
+      <option name="closed" value="true" />
+      <created>1721029700730</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1721029700730</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -293,6 +301,7 @@
     <MESSAGE value="Separate Tabs" />
     <MESSAGE value="grid() instead of pack()" />
     <MESSAGE value="Progress Bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Progress Bar" />
+    <MESSAGE value="Art on a Canvas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Art on a Canvas" />
   </component>
 </project>
