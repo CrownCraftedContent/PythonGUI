@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Listbox">
-      <change afterPath="$PROJECT_DIR$/message_box.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Message Box">
+      <change afterPath="$PROJECT_DIR$/color_chooser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
     "Python.basics.executor": "Run",
     "Python.buttons.executor": "Run",
     "Python.checkboxes.executor": "Run",
+    "Python.color_chooser.executor": "Run",
     "Python.entry.executor": "Run",
     "Python.listbox.executor": "Run",
     "Python.message_box.executor": "Run",
@@ -155,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721018665190</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Message Box">
+      <option name="closed" value="true" />
+      <created>1721019841706</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721019841706</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Message Box">
+      <option name="closed" value="true" />
+      <created>1721019920857</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721019920857</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +183,7 @@
     <MESSAGE value="Radio Buttons" />
     <MESSAGE value="Scales and Radio Buttons" />
     <MESSAGE value="Listbox" />
-    <option name="LAST_COMMIT_MESSAGE" value="Listbox" />
+    <MESSAGE value="Message Box" />
+    <option name="LAST_COMMIT_MESSAGE" value="Message Box" />
   </component>
 </project>
