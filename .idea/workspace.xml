@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Opening files (+ filtering)">
-      <change afterPath="$PROJECT_DIR$/file_saving.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Frames">
+      <change afterPath="$PROJECT_DIR$/windows.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +56,15 @@
     "Python.entry.executor": "Run",
     "Python.file_dialog.executor": "Run",
     "Python.file_saving.executor": "Run",
+    "Python.frame.executor": "Run",
     "Python.listbox.executor": "Run",
+    "Python.menu_bar.executor": "Run",
     "Python.message_box.executor": "Run",
     "Python.radio_buttons.executor": "Run",
     "Python.scale.executor": "Run",
     "Python.start.executor": "Run",
     "Python.text.executor": "Run",
+    "Python.windows.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -199,7 +202,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721021802852</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Saving files">
+      <option name="closed" value="true" />
+      <created>1721022681153</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721022681153</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Menu Bar">
+      <option name="closed" value="true" />
+      <created>1721025521968</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721025521968</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Frames">
+      <option name="closed" value="true" />
+      <created>1721025528733</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721025528733</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -215,6 +242,9 @@
     <MESSAGE value="Color Chooser" />
     <MESSAGE value="Text (multiple lines)" />
     <MESSAGE value="Opening files (+ filtering)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opening files (+ filtering)" />
+    <MESSAGE value="Saving files" />
+    <MESSAGE value="Menu Bar" />
+    <MESSAGE value="Frames" />
+    <option name="LAST_COMMIT_MESSAGE" value="Frames" />
   </component>
 </project>
