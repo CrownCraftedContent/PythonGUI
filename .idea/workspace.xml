@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Key events">
-      <change afterPath="$PROJECT_DIR$/mouse_events.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Mouse Events">
+      <change afterPath="$PROJECT_DIR$/dragging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     "Python.canvas.executor": "Run",
     "Python.checkboxes.executor": "Run",
     "Python.color_chooser.executor": "Run",
+    "Python.dragging.executor": "Run",
     "Python.entry.executor": "Run",
     "Python.file_dialog.executor": "Run",
     "Python.file_saving.executor": "Run",
@@ -287,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721030080017</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Mouse Events">
+      <option name="closed" value="true" />
+      <created>1721030623480</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1721030623480</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,6 +322,7 @@
     <MESSAGE value="Progress Bar" />
     <MESSAGE value="Art on a Canvas" />
     <MESSAGE value="Key events" />
-    <option name="LAST_COMMIT_MESSAGE" value="Key events" />
+    <MESSAGE value="Mouse Events" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mouse Events" />
   </component>
 </project>
