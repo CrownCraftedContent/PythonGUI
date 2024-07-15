@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Entries (Text Input Boxes)">
-      <change afterPath="$PROJECT_DIR$/check_buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radio_buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scale.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Scales and Radio Buttons">
+      <change afterPath="$PROJECT_DIR$/listbox.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +53,7 @@
     "Python.buttons.executor": "Run",
     "Python.checkboxes.executor": "Run",
     "Python.entry.executor": "Run",
+    "Python.listbox.executor": "Run",
     "Python.radio_buttons.executor": "Run",
     "Python.scale.executor": "Run",
     "Python.start.executor": "Run",
@@ -116,7 +114,39 @@
       <option name="project" value="LOCAL" />
       <updated>1721013273892</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Check buttons">
+      <option name="closed" value="true" />
+      <created>1721017349468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721017349468</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Check buttons">
+      <option name="closed" value="true" />
+      <created>1721017361814</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721017361814</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Radio Buttons">
+      <option name="closed" value="true" />
+      <created>1721017370479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721017370479</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Scales and Radio Buttons">
+      <option name="closed" value="true" />
+      <created>1721017404269</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721017404269</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +154,9 @@
     <MESSAGE value="GUI Windows and Labels" />
     <MESSAGE value="Buttons" />
     <MESSAGE value="Entries (Text Input Boxes)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Entries (Text Input Boxes)" />
+    <MESSAGE value="Check buttons" />
+    <MESSAGE value="Radio Buttons" />
+    <MESSAGE value="Scales and Radio Buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scales and Radio Buttons" />
   </component>
 </project>
