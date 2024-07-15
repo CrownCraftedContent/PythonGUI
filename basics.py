@@ -4,7 +4,7 @@ from tkinter import *  # <-- imports everything from that module, all it has to 
 # windows = serves as a container to hold or contain widgets
 
 # WINDOW
-window = Tk()  # instantiate an window instance
+window = Tk()  # instantiate a window instance
 window.geometry("420x420")
 window.title("Prince's Window")
 
@@ -15,17 +15,17 @@ window.title("Prince's Window")
 window.config(background="black")  # color name or hexadecimal (search hex color picker)
 window.config(background="#5cfcff")  # #hexadecimal is the format
 
-photo = PhotoImage(file='asus.jpg')
+photo = PhotoImage(file='Screenshot.png')  # jpg doesn't seem to work
 
 # LABEL
 # label = Label(window, text = "Hello world", font=('Arial',40,'bold'), fg='green', bg='black')  # window == container
 # ^ for simplicity
 label = Label(window,
-              text = "Hello world",
+              text="Hello world",
               font=('Arial',40,'bold'),
               fg='green',  # foreground (font color)
               bg='black',  # background
-              relief = RAISED,  # border relief options (also SUNKEN, etc.)
+              relief=RAISED,  # border relief options (also SUNKEN, etc.)
               bd=10,  # border width
               padx=20,  # padding between text and border (x axis, 20 pixels)
               pady=20,    # "" except for y axis
