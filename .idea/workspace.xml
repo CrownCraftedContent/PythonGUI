@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Dragging &amp; passing widgets through events">
-      <change afterPath="$PROJECT_DIR$/movement.py" afterDir="false" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Widget movement">
+      <change afterPath="$PROJECT_DIR$/movement_on_canvas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +65,7 @@
     "Python.message_box.executor": "Run",
     "Python.mouse_events.executor": "Run",
     "Python.movement.executor": "Run",
+    "Python.movement_on_canvas.executor": "Run",
     "Python.progress_bar.executor": "Run",
     "Python.radio_buttons.executor": "Run",
     "Python.scale.executor": "Run",
@@ -305,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721031754481</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Widget movement">
+      <option name="closed" value="true" />
+      <created>1721032346261</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721032346261</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -332,6 +341,7 @@
     <MESSAGE value="Key events" />
     <MESSAGE value="Mouse Events" />
     <MESSAGE value="Dragging &amp; passing widgets through events" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dragging &amp; passing widgets through events" />
+    <MESSAGE value="Widget movement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Widget movement" />
   </component>
 </project>
