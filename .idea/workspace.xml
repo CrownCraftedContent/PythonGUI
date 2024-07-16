@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Email creation" />
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Email creation">
+      <change afterPath="$PROJECT_DIR$/file_running.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +58,7 @@
     "Python.clock.executor": "Run",
     "Python.color_chooser.executor": "Run",
     "Python.dragging.executor": "Run",
+    "Python.emails.executor": "Run",
     "Python.entry.executor": "Run",
     "Python.file_dialog.executor": "Run",
     "Python.file_saving.executor": "Run",
@@ -75,10 +79,19 @@
     "Python.text.executor": "Run",
     "Python.windows.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/thepm/Documents"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thepm\Documents" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\thepm\PycharmProjects\PythonGUI" />
     </key>
@@ -363,7 +376,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721041567655</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Email creation">
+      <option name="closed" value="true" />
+      <created>1721127860224</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1721127860224</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
