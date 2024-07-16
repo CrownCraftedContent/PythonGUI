@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="Email creation">
-      <change afterPath="$PROJECT_DIR$/file_running.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6621897-18de-40ae-8395-8a297a655f99" name="Changes" comment="File execution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,47 +44,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.animating.executor": "Run",
-    "Python.basics.executor": "Run",
-    "Python.binding.executor": "Run",
-    "Python.buttons.executor": "Run",
-    "Python.canvas.executor": "Run",
-    "Python.checkboxes.executor": "Run",
-    "Python.clock.executor": "Run",
-    "Python.color_chooser.executor": "Run",
-    "Python.dragging.executor": "Run",
-    "Python.emails.executor": "Run",
-    "Python.entry.executor": "Run",
-    "Python.file_dialog.executor": "Run",
-    "Python.file_saving.executor": "Run",
-    "Python.frame.executor": "Run",
-    "Python.gridding.executor": "Run",
-    "Python.listbox.executor": "Run",
-    "Python.menu_bar.executor": "Run",
-    "Python.message_box.executor": "Run",
-    "Python.mouse_events.executor": "Run",
-    "Python.movement.executor": "Run",
-    "Python.movement_on_canvas.executor": "Run",
-    "Python.multiple_animation.executor": "Run",
-    "Python.progress_bar.executor": "Run",
-    "Python.radio_buttons.executor": "Run",
-    "Python.scale.executor": "Run",
-    "Python.start.executor": "Run",
-    "Python.tabs.executor": "Run",
-    "Python.text.executor": "Run",
-    "Python.windows.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/thepm/Documents"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.animating.executor&quot;: &quot;Run&quot;,
+    &quot;Python.basics.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buttons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.canvas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkboxes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.color_chooser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dragging.executor&quot;: &quot;Run&quot;,
+    &quot;Python.emails.executor&quot;: &quot;Run&quot;,
+    &quot;Python.entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_dialog.executor&quot;: &quot;Run&quot;,
+    &quot;Python.file_saving.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gridding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu_bar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.message_box.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mouse_events.executor&quot;: &quot;Run&quot;,
+    &quot;Python.movement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.movement_on_canvas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.multiple_animation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.progress_bar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.radio_buttons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scale.executor&quot;: &quot;Run&quot;,
+    &quot;Python.start.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tabs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.windows.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/thepm/Documents&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\thepm\Documents" />
@@ -384,11 +381,18 @@
       <option name="project" value="LOCAL" />
       <updated>1721127860224</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="File execution">
+      <option name="closed" value="true" />
+      <created>1721132120693</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1721132120693</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Check buttons" />
     <MESSAGE value="Radio Buttons" />
     <MESSAGE value="Scales and Radio Buttons" />
     <MESSAGE value="Listbox" />
@@ -413,6 +417,7 @@
     <MESSAGE value="Animating multiple images/shapes" />
     <MESSAGE value="Automation of time display" />
     <MESSAGE value="Email creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Email creation" />
+    <MESSAGE value="File execution" />
+    <option name="LAST_COMMIT_MESSAGE" value="File execution" />
   </component>
 </project>
